@@ -1,2 +1,2 @@
 # agile
-Agile SW developpment
+Agile SW development Best Practices
